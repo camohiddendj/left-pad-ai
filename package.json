@@ -1,0 +1,27 @@
+{
+  "name": "left-pad-ai",
+  "version": "1.0.0",
+  "description": "A left-padding utility using ChatGPT-3.5 Turbo for generating left-padded strings, leveraging AI to add the specified character until a desired length is achieved.",
+  "main": "index.js",
+  "scripts": {
+    "test": "node test.js"
+  },
+  "keywords": [
+    "left-pad",
+    "OpenAI",
+    "padding",
+    "AI"
+  ],
+  "author": "camo@hiddendj.com",
+  "license": "MIT",
+  "dependencies": {
+    "openai": "^4.68.1"
+  },
+  "devDependencies": {
+    "dotenv": "^16.4.5"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/camohiddendj/left-pad-ai.git"
+  }
+}
