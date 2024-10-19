@@ -1,6 +1,6 @@
 {
   "name": "left-pad-ai",
-  "version": "1.0.0",
+  "version": "1.0.2",
   "description": "A left-padding utility using ChatGPT-3.5 Turbo for generating left-padded strings, leveraging AI to add the specified character until a desired length is achieved.",
   "main": "index.js",
   "scripts": {

@@ -35,5 +35,3 @@ async function leftPadAi(inputString, length, padChar) {
 }
 
 module.exports = leftPadAi;
-
-leftPadAi('test', 10, '*').then(console.log).catch(console.error);
