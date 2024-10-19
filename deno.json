@@ -1,5 +1,11 @@
 {
-    "name": "@left-pad/left-pad-ai",
-    "version": "1.0.2",
-    "exports": "./index.js"
+  "name": "@left-pad/left-pad-ai",
+  "version": "1.0.2",
+  "exports": "./index.ts",
+  "types": "./index.d.ts",
+  "lint": {
+      "rules": {
+        "exclude": ["no-slow-types"]
+      }
   }
+}
